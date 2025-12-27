@@ -1,0 +1,26 @@
+{
+  "name": "brand-design-website",
+  "version": "1.0.0",
+  "description": "Professional brand identity design portfolio website with Firebase",
+  "main": "index.html",
+  "scripts": {
+    "start": "firebase serve",
+    "deploy": "firebase deploy",
+    "build": "echo 'Build complete'",
+    "firebase-init": "firebase login && firebase init"
+  },
+  "keywords": [
+    "brand-design",
+    "portfolio",
+    "firebase",
+    "web-design"
+  ],
+  "author": "Akash",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^10.7.1"
+  },
+  "devDependencies": {
+    "firebase-tools": "^13.0.0"
+  }
+}
