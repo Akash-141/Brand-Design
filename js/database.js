@@ -288,4 +288,5 @@ function showToast(message, type = 'success') {
 
 // Export helper functions to be used by other modules
 window.loadUserData = loadUserData;
+
 window.clearUserData = clearUserData;
