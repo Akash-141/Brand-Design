@@ -528,6 +528,7 @@ function showToast(message, type = 'success') {
     }
 }
 
+
 // Make showToast globally available
 window.showToast = showToast;
 
