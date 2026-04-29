@@ -70,6 +70,7 @@ export async function signInWithEmail(email, password) {
     }
 }
 
+
 // Sign in with Google
 export async function signInWithGoogle() {
     try {
