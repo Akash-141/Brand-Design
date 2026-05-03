@@ -211,5 +211,3 @@ function showToast(message, type = 'success') {
 // Make showToast available globally
 
 window.showToast = showToast;
-
-
